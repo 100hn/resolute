@@ -164,7 +164,7 @@ img.port-bg {
   position: relative;
     top: -140px;
 }
-@media (min-width: 700px) {
+@media (max-width: 700px) {
 img.port-bg {
     width: 500px;
 	}
