@@ -580,10 +580,10 @@ input#find {
 /*   text-align: justify; */
 }
 .theme-footer-one .top-footer .about-widget .queries i {font-size: 22px;vertical-align: middle;margin-right: 10px;}
-.theme-footer-one .top-footer .about-widget .queries {color: #fff;margin-top: 25px;font-size: 17px;}
+.theme-footer-one .top-footer .about-widget .queries {color: #fff;margin-top: 25px;font-size: 16px;}
 .theme-footer-one .top-footer .about-widget .queries a {
 /*   font-family: 'Source Sans Pro', sans-serif; */
-  font-size: 18px;
+  font-size: 17px;
   color: #fff;
 }
 .theme-footer-one .top-footer .footer-recent-post li {
