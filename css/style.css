@@ -119,6 +119,9 @@ section .portfolio {
   background-color: #f7f7f7;
   padding: 20px;
 }
+img.port-bg {
+  filter: blur(8px);
+}
 .port-bg{
   width: 100%;
   height: 400px ;
