@@ -1,5 +1,7 @@
+*{
+ font-family: "Poppins", sans-serif;
+}
 body {
-  font-family: "Roboto", sans-serif;
   color: #000000;
   background-color: #ffffff;
 }
@@ -89,6 +91,9 @@ body {
 .text p{
   text-align: justify;
   font-size: 14px;
+}
+section.image-with-text.owner {
+  background: #e4e1dc;
 }
 @media (min-width: 700px) {
 section.image-with-text.resolute {
