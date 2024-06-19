@@ -562,6 +562,7 @@ input#find {
   font-size: 17px;
   line-height: 25px;
   color: #9ca6bf;
+  text-align: justify;
 }
 .theme-footer-one .top-footer .about-widget .queries i {font-size: 22px;vertical-align: middle;margin-right: 10px;}
 .theme-footer-one .top-footer .about-widget .queries {color: #fff;margin-top: 25px;font-size: 17px;}
