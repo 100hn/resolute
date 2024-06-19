@@ -397,15 +397,15 @@ img.port-bg {
   text-decoration: none;
   color: #337ab7;
   background-color: #fff;
-  border: 1px solid #ddd;
-  padding: 10px 20px;
-  border-radius: 5px;
+  border: 1px solid #2374b6;
+  padding: 13px 24px;
+  border-radius: 20px;
 }
 
 .email-btn a:hover {
-  color: #23527c;
-  background-color: #f7f7f7;
-  border-color: #ccc;
+  color: #fff;
+  background-color: #2374b6;
+  border-color: #fff;
 }
 /* end of newsletter section  */
 
