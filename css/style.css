@@ -90,7 +90,11 @@ body {
   text-align: justify;
   font-size: 14px;
 }
-
+@media (min-width: 700px) {
+section.image-with-text.resolute {
+  padding: 20px 100px 20px 100px;
+  }
+}
 section.image-with-text {
   background: #2374B6;
   color: #fff;
