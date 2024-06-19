@@ -126,6 +126,7 @@ section.image-with-text.owner .image{
 
 
 /* portfolio  */
+
 section .portfolio {
   background-color: #f7f7f7;
   padding: 20px;
@@ -163,7 +164,11 @@ img.port-bg {
   position: relative;
     top: -140px;
 }
-
+@media (min-width: 700px) {
+img.port-bg {
+    width: 500px;
+	}
+}
 .company {
   width: 45%;
   height: 500px;
