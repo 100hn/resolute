@@ -131,7 +131,7 @@ section .portfolio {
   padding: 20px;
 }
 img.port-bg {
-  filter: blur(8px);
+/*   filter: blur(8px); */
 }
 .port-bg{
   width: 100%;
