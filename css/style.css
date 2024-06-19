@@ -104,8 +104,8 @@ section.image-with-text.owner {
 section.image-with-text.resolute {
   padding: 20px 100px 20px 100px;
   }
-section.image-with-text.owner image{
-	padding:0px 20px 0px 20px;
+section.image-with-text.owner .image{
+	padding:0px 20px 0px 20px !important;
 }
 .heading_container h2 {
   font-weight: bold;
