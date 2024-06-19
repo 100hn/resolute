@@ -201,6 +201,9 @@ img.port-bg {
 
 .company:hover h2 {
   opacity: 1; /* Show h2 on hover */
+  font-size: 25px;
+  position: relative;
+  top:50%;
 }
 
 /* Add background images for each company */
