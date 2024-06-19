@@ -559,10 +559,10 @@ input#find {
   margin-top: 10px;
 }
 .theme-footer-one .top-footer .about-widget p {
-  font-size: 17px;
+  font-size: 16px;
   line-height: 25px;
   color: #9ca6bf;
-  text-align: justify;
+/*   text-align: justify; */
 }
 .theme-footer-one .top-footer .about-widget .queries i {font-size: 22px;vertical-align: middle;margin-right: 10px;}
 .theme-footer-one .top-footer .about-widget .queries {color: #fff;margin-top: 25px;font-size: 17px;}
