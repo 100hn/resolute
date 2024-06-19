@@ -1,5 +1,5 @@
 *{
- font-family: "Poppins", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 body {
   color: #000000;
@@ -92,6 +92,11 @@ body {
   text-align: justify;
   font-size: 14px;
 }
+
+section.image-with-text {
+  background: #2374B6;
+  color: #fff;
+}
 section.image-with-text.owner {
   background: #e4e1dc;
 }
@@ -100,11 +105,6 @@ section.image-with-text.resolute {
   padding: 20px 100px 20px 100px;
   }
 }
-section.image-with-text {
-  background: #2374B6;
-  color: #fff;
-}
-
 .heading_container h2 {
   font-weight: bold;
   position: relative;
@@ -1484,9 +1484,9 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 5px 0 0 5px;
 }
 .why-we-best .wrapper .best-list-item li {
-  position: relative;
+  /* position: relative;
   margin-bottom: 50px;
-  padding: 0 0 0 90px;
+  padding: 0 0 0 90px; */
 }
 .why-we-best .wrapper .best-list-item li:last-child {margin-bottom: 0;}
 .why-we-best .wrapper .best-list-item li h5 {margin-bottom: 10px;}
