@@ -567,8 +567,8 @@ input#find {
 .theme-footer-one .top-footer .about-widget .queries i {font-size: 22px;vertical-align: middle;margin-right: 10px;}
 .theme-footer-one .top-footer .about-widget .queries {color: #fff;margin-top: 25px;font-size: 17px;}
 .theme-footer-one .top-footer .about-widget .queries a {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 19px;
+/*   font-family: 'Source Sans Pro', sans-serif; */
+  font-size: 18px;
   color: #fff;
 }
 .theme-footer-one .top-footer .footer-recent-post li {
@@ -623,8 +623,8 @@ input#find {
   left:0;
 }
 .theme-footer-one .top-footer .footer-list ul li a {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 17px;
+/*   font-family: 'Source Sans Pro', sans-serif; */
+  font-size: 16px;
   color: #9ca6bf;
 }
 .theme-footer-one .top-footer .footer-list ul li a:hover {color: #fff;}
@@ -666,8 +666,8 @@ input#find {
 .theme-footer-one .bottom-footer ul {text-align: right;}
 .theme-footer-one .bottom-footer ul li {display: inline-block;line-height: 25px;}
 .theme-footer-one .bottom-footer ul li a {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 17px;
+/*   font-family: 'Source Sans Pro', sans-serif; */
+  font-size: 16px;
   color: #9ca6bf;
   margin-left: 35px;
 }
